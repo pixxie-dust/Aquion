@@ -1,10 +1,4 @@
-# AQUION FINANCIAL MODEL TEMPLATE
-
----
-
-## UNIT ECONOMICS
-
-### BASIC MODEL (₱95,000 selling price)
+#Aquion Financial Model
 
 **Direct Material Costs:**
 | Component | Quantity | Unit Cost | Total |
@@ -65,7 +59,6 @@ Add to Refresh Model:
 **Gross Profit: ₱33,500**  
 **Gross Margin: 21.6%**
 
----
 
 ## FIXED COSTS (MONTHLY)
 
@@ -92,8 +85,6 @@ Add to Refresh Model:
 | **TOTAL MONTHLY** | **₱118,000** | **₱1,416,000** |
 
 **Note:** First 6 months, many of these will be lower (minimal salaries, less marketing). Budget ₱50,000/month in prototype phase.
-
----
 
 ## YEAR 1 PROJECTIONS
 
